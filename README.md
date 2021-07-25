@@ -10,6 +10,6 @@ TorDuckGo
 3. Add TorDuckGo to your search options
 4. Set TorDuckGo as your default browser in Preferences -> Search
 ![](http://www.adrw.ch/torduckgo/img/choose-default-search.png)
-5. Enjoy getting to default search [DuckDuckGo](https://duckduckgo.com) with [3g2upl4pq6kufc4m.onion](https://3g2upl4pq6kufc4m.onion/)
+5. Enjoy getting to default search [DuckDuckGo](https://duckduckgo.com) with [duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion](https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion/)
 
 &copy; 2017 [Andrew Paradi](http://www.adrw.ch/). [Source Code](https://github.com/andrewparadi/torduckgo/tree/gh-pages). MIT License.
