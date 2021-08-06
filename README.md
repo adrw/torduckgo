@@ -12,4 +12,4 @@ TorDuckGo
 ![](http://www.adrw.ch/torduckgo/img/choose-default-search.png)
 5. Enjoy getting to default search [DuckDuckGo](https://duckduckgo.com) with [duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion](https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion/)
 
-&copy; 2017 [Andrew Paradi](http://www.adrw.ch/). [Source Code](https://github.com/andrewparadi/torduckgo/tree/gh-pages). MIT License.
+&copy; 2017 [Andrew Alexander](http://www.adrw.ch/). [Source Code](https://github.com/adrw/torduckgo/tree/gh-pages). MIT License.
